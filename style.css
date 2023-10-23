@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+#wrapper{
+    width: 630px;
+    height: 630px;
+    margin: auto auto;
+    background-color: rgba(80,80,80,1);
+    position: relative;
+}
+
+.block{
+    position: absolute;
+    background-color: red;
+    border: black 1px solid;
+}
+
+.O{
+    background-color: yellow;
+}
